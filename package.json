@@ -1,0 +1,23 @@
+{
+  "name": "loopback-counts-where-mixin",
+  "version": "1.0.0",
+  "description": "A mixin to enable get count with condition of related models for a loopback Model.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "loopback",
+    "strongloop",
+    "mixin",
+    "relation",
+    "count",
+    "condition",
+    "where"
+  ],
+  "author": "VietChaien <viet.levanthanh@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^5.16.0"
+  }
+}
