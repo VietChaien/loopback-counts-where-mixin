@@ -6,6 +6,10 @@
   "scripts": {
     "lint": "eslint ."
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VietChaien/loopback-counts-where-mixin.git"
+  },
   "keywords": [
     "loopback",
     "strongloop",
@@ -16,7 +20,11 @@
     "where"
   ],
   "author": "VietChaien <viet.levanthanh@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VietChaien/loopback-counts-where-mixin/issues"
+  },
+  "homepage": "https://github.com/VietChaien/loopback-counts-where-mixin#readme",
   "dependencies": {
     "eslint": "^5.16.0"
   }
